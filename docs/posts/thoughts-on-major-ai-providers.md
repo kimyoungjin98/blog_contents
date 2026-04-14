@@ -9,6 +9,8 @@ tags:
   - llm
   - review
   - productivity
+sidebar:
+  order: 1
 ---
 
 이 글은 2026년 4월 10일 기준, 내가 직접 써 본 환경을 바탕으로 정리한 개인 메모다.

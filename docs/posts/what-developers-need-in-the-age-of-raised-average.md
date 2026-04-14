@@ -9,6 +9,8 @@ tags:
   - development
   - product
   - sense
+sidebar:
+  order: 2
 ---
 
 AI의 성능이 올라갈수록 가장 먼저 체감되는 변화는 생산 속도다.
