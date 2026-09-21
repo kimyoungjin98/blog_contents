@@ -1,0 +1,23 @@
+name: Notify blog about content
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'Templates/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Dispatch pinned content update
+        run: node .github/scripts/notify-blog.mjs
+        env:
+          CONTENT_SHA: ${{ github.sha }}
+          BLOG_REPOSITORY: ${{ vars.BLOG_REPOSITORY }}
+          BLOG_DISPATCH_TOKEN: ${{ secrets.BLOG_DISPATCH_TOKEN }}
