@@ -11,7 +11,7 @@ tags:
   - 앱운영
   - 앱
 draft: false
-slug: /freshkeep-ocr-loading
+slug: freshkeep-ocr-loading
 ---
 최근에 앱인토스로 '<font color="#f79646">프레시킵</font>' 이라는 사진 촬영 또는 직접 식품을 등록하여 유통기한을 사용자에게 알려주는 서비스를 만들었다.
 
