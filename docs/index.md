@@ -1,12 +1,12 @@
 ---
-title: Yeongjin Blog
-description: Yeongjin의 개발 기록 공간. 배우고 만든 것들을 남깁니다.
+title: youngjin Blog
+description: youngjin의 개발 기록 공간. 배우고 만든 것들을 남깁니다.
 tableOfContents: false
 ---
 
 ## 반갑습니다
 
-개발자 Yeongjin의 기록 공간입니다. 배우고 만든 것들을 여기에 남깁니다.
+개발자 youngjin의 기록 공간입니다. 배우고 만든 것들을 여기에 남깁니다.
 
 ## 둘러보기
 

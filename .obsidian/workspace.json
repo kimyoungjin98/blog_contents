@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/posts/블로그 글 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -184,9 +184,9 @@
   },
   "active": "456c5e36a2db0ffe",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/posts/블로그 글 1.md",
     "Templates/블로그 글.md",
+    "docs/posts/블로그 글 1.md",
+    "docs/index.md",
     "Templates",
     "docs/posts/jeongcheori-silgi-study-log-01.md",
     "docs/posts/thoughts-on-major-ai-providers.md",
