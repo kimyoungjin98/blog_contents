@@ -7,7 +7,9 @@ tags:
   - 프론트엔드
   - 리액트
   - 성능최적화
+  - UI
 draft: false
+slug: optimistic
 ---
 ## 낙관적 업데이트?
 
