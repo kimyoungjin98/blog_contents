@@ -1,6 +1,6 @@
 ---
 title: "[프론트엔드 성능 최적화 하기] (1) 낙관적 업데이트란?"
-description:
+description: 프론트엔드 성능 최적화를 위한 낙관적 업데이트에 대하여
 date: 2026-09-22
 category: 프론트엔드
 tags:
