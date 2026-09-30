@@ -57,3 +57,7 @@ slug: change-rate-ui
 ![[Pasted image 20260929141633.png]]
 
 `div` 에 `key` 값을 추가하여 `changeRate` 가 변경될 때마다 `div` 를 다시 렌더링 하도록 하면 해결된다.
+
+## 결과
+
+![[ezgif-83cd9c087baba7c8.gif]]
