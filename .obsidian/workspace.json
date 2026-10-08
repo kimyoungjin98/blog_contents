@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c489f5c4d835429",
+        "id": "7bfcc5a471829f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "7fb12e2dcec806d3",
+            "id": "f91d9f7b5967e7b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/posts/Fast API 1.md",
+                "file": "docs/posts/리액트 만들어보기 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast API 1"
+              "title": "리액트 만들어보기 2"
             }
           }
         ]
@@ -194,27 +194,29 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7fb12e2dcec806d3",
+  "active": "f91d9f7b5967e7b2",
   "lastOpenFiles": [
-    "docs/posts/파라그래프.md",
+    "Pasted image 20261008154935.png",
+    "Pasted image 20261008143045.png",
+    "Pasted image 20261008141044.png",
+    "Pasted image 20261008140331.png",
+    "Pasted image 20261008140304.png",
+    "Pasted image 20261008133735.png",
+    "Pasted image 20261008133718.png",
+    "Pasted image 20261008011617.png",
+    "Pasted image 20261008133724.png",
+    "Pasted image 20261008133725.png",
+    "docs/posts/리액트 만들어보기 2.md",
+    "docs/posts/상품 검색 제작기 - 2.md",
+    "docs/posts/리액트 만들어보기.md",
     "docs/posts/Fast API 1.md",
+    "docs/posts/파라그래프.md",
     "docs/posts/UI 낙관적 업데이트.md",
     "docs/posts/토스 증권 가격 등락률 UI 만들어보기.md",
     "docs/posts/테스트 코드 작성기 1.md",
-    "docs/posts/상품 검색 제작기 - 2.md",
     "docs/posts/상품 검색 제작기 - 1.md",
-    "docs/posts/리액트 만들어보기.md",
     "docs/posts/[프레시킵] OCR 분석 로딩.md",
     "attachments/ezgif-83cd9c087baba7c8.gif",
-    "attachments/Pasted image 20260930182509.png",
-    "attachments/Pasted image 20260930182503.png",
-    "attachments/Pasted image 20260930182304.png",
-    "attachments/Pasted image 20260930182247.png",
-    "attachments/Pasted image 20260930181344.png",
-    "attachments/Pasted image 20260930180908.png",
-    "attachments/Pasted image 20260930180842.png",
-    "attachments/Pasted image 20260930180826.png",
-    "attachments/Pasted image 20260930180803.png",
     "Templates/블로그 글.md",
     "Templates/상품 검색 제작기 - 1 1.md",
     "docs/index.md",
@@ -236,8 +238,6 @@
     "Categories",
     "Assets",
     "Posts",
-    "posts/what-developers-need-in-the-age-of-raised-average.md",
-    "posts/thoughts-on-major-ai-providers.md",
     "posts",
     "categories",
     "assets"
