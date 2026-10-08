@@ -10,7 +10,6 @@ tags:
   - FastAPI
 draft: false
 slug: fast-api-1
-publishedAt:
 ---
 ## 개요
 
