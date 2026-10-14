@@ -80,9 +80,9 @@ async def main():
 asyncio.run(main())              # ③ 진입점: 이벤트 루프 생성 → 실행 → 종료
 ```
 
-`async def` : 호출시 코루틴 객체 생성
-`await` : `async def` 안에서만 사용 가능
-`asyncio.run()` : 프로그램 전체에서 한 번만 호출하는 진입점
+- `async def` : 호출시 코루틴 객체 생성
+- `await` : `async def` 안에서만 사용 가능
+- `asyncio.run()` : 프로그램 전체에서 한 번만 호출하는 진입점
 
 ### gether
 
@@ -146,7 +146,7 @@ async def main():
     await asyncio.gather(*tasks)
 ```
 ``
-`Lock` : 한 번에 한 Task만 들어가는 구역
-`Semaphore(n)` : 동시에 N개까지 허용
-`Event` : 신호를 주고받음
-`Queue` : 생성 - 사용자 간 데이터 전달
+- `Lock` : 한 번에 한 Task만 들어가는 구역
+- `Semaphore(n)` : 동시에 N개까지 허용
+- `Event` : 신호를 주고받음
+- `Queue` : 생성 - 사용자 간 데이터 전달
